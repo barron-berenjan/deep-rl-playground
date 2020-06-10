@@ -1,2 +1,2 @@
 # Reinforcement Learning Playground
-A repository to experiment and code reinforcement learning algorithms
+A repository to build and experiment with different reinforcement learning algorithms
